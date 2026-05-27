@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Frontend+Developer;SaaS+Builder;AI+Integrations;Marketing+%2B+Product+%2B+Code;Always+building+something+new" />
 
-<br>
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alisoncardoso.dev.br-00C896?style=for-the-badge)](https://www.alisoncardoso.dev.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alison_Cardoso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alisoncardosoo/)
@@ -19,7 +19,7 @@
 
 # 🧠 About Me
 
-```yaml
+yaml
 name: Alison Cardoso
 located_in: Brazil 🇧🇷
 
@@ -40,7 +40,6 @@ currently_learning:
   - Node.js
   - Python
   - Software Architecture
-```
 
 ---
 
