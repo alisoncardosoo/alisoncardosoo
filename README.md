@@ -1,4 +1,4 @@
-````md
+md
 <div align="center">
 
 # 👋 Hey, I'm Alison Cardoso
@@ -46,7 +46,6 @@ currently_learning:
     "Python",
     "Software Architecture"
   ]
-````
 
 ---
 
