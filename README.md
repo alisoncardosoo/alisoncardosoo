@@ -19,27 +19,34 @@
 
 # 🧠 About Me
 
-yaml
-name: Alison Cardoso
-located_in: Brazil 🇧🇷
+🚀 Building SaaS products and AI-powered tools
 
-current_focus:
-  - SaaS Development
-  - AI Integrations
-  - Automation Systems
-  - Frontend Engineering
-  - Product Building
+💻 Focused on:
+- Frontend Development
+- SaaS Architecture
+- AI Integrations
+- Automation Systems
 
-background:
-  - Marketing
-  - Product Strategy
-  - Web Development
+🎯 Background in:
+- Marketing
+- Product Strategy
+- Digital Experiences
 
-currently_learning:
-  - Next.js
-  - Node.js
-  - Python
-  - Software Architecture
+📚 Currently learning:
+- Next.js
+- Node.js
+- Python
+- Software Architecture
+
+---
+
+# ⚡ Currently Building
+
+- 🐶 Lucie SaaS
+- 🌎 LingoDesk
+- 💰 Finntracker
+- 🖥 MacOS Utilities
+- 🤖 AI Automation Systems
 
 ---
 
