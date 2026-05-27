@@ -46,7 +46,7 @@ currently_learning:
     "Python",
     "Software Architecture"
   ]
-
+```
 ---
 
 # 🚀 Featured Projects
