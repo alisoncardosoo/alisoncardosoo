@@ -1,4 +1,3 @@
-md
 <div align="center">
 
 # 👋 Hey, I'm Alison Cardoso
@@ -11,8 +10,8 @@ md
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alisoncardoso.dev.br-00C896?style=for-the-badge)](https://www.alisoncardoso.dev.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alison_Cardoso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alisoncardosoo/)
-[![GitHub followers](https://img.shields.io/github/followers/alisoncardosoo?style=for-the-badge&logo=github)]
-[![GitHub Stars](https://img.shields.io/github/stars/alisoncardosoo?style=for-the-badge&logo=github)]
+[![GitHub followers](https://img.shields.io/github/followers/alisoncardosoo?style=for-the-badge&logo=github)](https://github.com/alisoncardosoo)
+[![GitHub Stars](https://img.shields.io/github/stars/alisoncardosoo?style=for-the-badge&logo=github)](https://github.com/alisoncardosoo)
 
 </div>
 
@@ -23,30 +22,26 @@ md
 ```yaml
 name: Alison Cardoso
 located_in: Brazil 🇧🇷
+
 current_focus:
-  [
-    "SaaS Development",
-    "AI Integrations",
-    "Automation Systems",
-    "Frontend Engineering",
-    "Product Building"
-  ]
+  - SaaS Development
+  - AI Integrations
+  - Automation Systems
+  - Frontend Engineering
+  - Product Building
 
 background:
-  [
-    "Marketing",
-    "Product Strategy",
-    "Web Development"
-  ]
+  - Marketing
+  - Product Strategy
+  - Web Development
 
 currently_learning:
-  [
-    "Next.js",
-    "Node.js",
-    "Python",
-    "Software Architecture"
-  ]
+  - Next.js
+  - Node.js
+  - Python
+  - Software Architecture
 ```
+
 ---
 
 # 🚀 Featured Projects
@@ -57,12 +52,12 @@ currently_learning:
 
 ### Main Features
 
-* 📅 Smart Scheduling
-* 💬 WhatsApp Automations
-* 📊 Analytics Dashboard
-* 💳 Online Payments
-* 🐾 Pet Management
-* 🤖 AI Features
+- 📅 Smart Scheduling
+- 💬 WhatsApp Automations
+- 📊 Analytics Dashboard
+- 💳 Online Payments
+- 🐾 Pet Management
+- 🤖 AI Features
 
 ---
 
@@ -72,11 +67,11 @@ currently_learning:
 
 ### Main Features
 
-* 👨‍🏫 Teacher Dashboard
-* 📚 Student Management
-* 🎯 Gamification
-* 💬 Communication Tools
-* 📈 Analytics
+- 👨‍🏫 Teacher Dashboard
+- 📚 Student Management
+- 🎯 Gamification
+- 💬 Communication Tools
+- 📈 Analytics
 
 ---
 
@@ -86,11 +81,11 @@ currently_learning:
 
 ### Main Features
 
-* 🤖 AI Expense Analysis
-* 📊 Financial Dashboard
-* 💸 Smart Categorization
-* 📈 Investment Tracking
-* 🎯 Savings Goals
+- 🤖 AI Expense Analysis
+- 📊 Financial Dashboard
+- 💸 Smart Categorization
+- 📈 Investment Tracking
+- 🎯 Savings Goals
 
 ---
 
@@ -100,30 +95,30 @@ currently_learning:
 
 ### 💻 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 ### 🤖 AI & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ### 🎨 Design & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 </div>
 
@@ -145,11 +140,11 @@ currently_learning:
 
 # 🧩 Current Goals
 
-* 🚀 Launching scalable SaaS products
-* 🤖 Building AI-powered systems
-* 📱 Creating modern web experiences
-* 🧠 Improving software architecture skills
-* 🌎 Working on impactful digital products
+- 🚀 Launching scalable SaaS products
+- 🤖 Building AI-powered systems
+- 📱 Creating modern web experiences
+- 🧠 Improving software architecture skills
+- 🌎 Working on impactful digital products
 
 ---
 
@@ -159,17 +154,17 @@ currently_learning:
 
 ### I'm always open to:
 
-💼 Freelance Projects
-🚀 Startup Ideas
-🤖 AI Projects
-🌎 SaaS Collaborations
+💼 Freelance Projects  
+🚀 Startup Ideas  
+🤖 AI Projects  
+🌎 SaaS Collaborations  
 ☕ Networking
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C896?style=for-the-badge)](https://www.alisoncardoso.dev.br)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/alisoncardosoo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alisoncardosoo/)
 
 </div>
 
@@ -177,9 +172,8 @@ currently_learning:
 
 <div align="center">
 
-### ⚡ "Building products that combine technology, automation and great user experiences."
+### ⚡ Building products that combine technology, automation and great user experiences.
 
 <img src="https://komarev.com/ghpvc/?username=alisoncardosoo&style=for-the-badge&color=00C896" />
 
 </div>
-```
