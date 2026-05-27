@@ -133,12 +133,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisoncardosoo&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisoncardosoo&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisoncardosoo&theme=github_dark" />
 </p>
-
-</div>
 
 ---
 
