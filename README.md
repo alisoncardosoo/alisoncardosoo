@@ -132,11 +132,11 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisoncardosoo&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&text_color=ffffff&icon_color=00C896" />
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisoncardosoo&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=ffffff" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisoncardosoo&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisoncardosoo&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+</p>
 
 </div>
 
