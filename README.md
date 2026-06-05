@@ -31,7 +31,7 @@ Junior Full Stack Developer building SaaS & AI products.
 ## ⚒ Tools & Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,vercel" />
 </p>
 
 ---
